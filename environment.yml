@@ -1,0 +1,16 @@
+name: air_quality_stability
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - pip
+  - pip:
+      - pyyaml
