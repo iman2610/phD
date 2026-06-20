@@ -4,7 +4,7 @@ Projet scientifique de machine learning visant à analyser et prédire la stabil
 
 ---
 
-## Structure du projet
+## Structure du projet. 
 
 ```
 .
